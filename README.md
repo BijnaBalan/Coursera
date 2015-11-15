@@ -1,2 +1,2 @@
-# Coursera
-Certificates of Coursera courses
+# MOOC-Certificates
+Certificates of MOOC courses
